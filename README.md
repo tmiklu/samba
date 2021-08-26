@@ -1,1 +1,2 @@
-# samba
+# samba 
+Guest access
